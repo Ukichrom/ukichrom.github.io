@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Musee Zoologique",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/MuseeZoologiqueStrasbourg.png",
+    "back": "/img/imgdesc/museezoologique.png",
+    "link": "/pdf/Art%20Graphique%20x%20Design%20Graphique%20-%20Septembre%202023%20-%20Musée%20zoologique.pdf"
+  },
+  {
+    "id": 25,
+    "name": "Packaging",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/packagingepices.png",
+    "back": "/img/imgdesc/packagingepice.png",
+    "link": "/pdf/Design%203D%20-%20Janvier%202023%20-%20Packaging.pdf"
+  },
+  {
+    "id": 2,
+    "name": "6630 Creme Solaire",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/CremeSolaire6630.png",
+    "back": "/img/imgdesc/cremesolaire.png",
+    "link": "/pdf/Design%20Graphique%20-%20Avril%202023%20-%20Crème%20solaire%2066°30.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Typographie Graphique",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/TypographieGraphique.png",
+    "back": "/img/imgdesc/typographique.png",
+    "link": "/pdf/Design%20Graphique%20-%20Avril%202023%20-%20Typographie%20graphique.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Typographie Personnelle",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/TypographiePersonnelle.png",
+    "back": "/img/imgdesc/typoperso.png",
+    "link": "/pdf/Design%20Graphique%20-%20Janvier%202023%20-%20Typographie%20personnelle.pdf"
+  },
+  {
+    "id": 5,
+    "name": "CSA Branding",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/CSA.png",
+    "back": "/img/imgdesc/CSA.png",
+    "link": "/pdf/Design%20Graphique%20-%20Mars%202023%20-%20CSA%20branding.pdf"
+  },
+  {
+    "id": 6,
+    "name": "Festival du film fantastique",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/FestivalFilmFantastique.png",
+    "back": "/img/imgdesc/FEFFS.png",
+    "link": "/pdf/Design%20Graphique%20-%20Mars%202023%20-%20Festival%20du%20film%20fantastique.pdf"
+  },
+  {
+    "id": 7,
+    "name": "Pochette CD",
+    "categ": "Projet Groupe",
+    "front": "/img/imgprojet/Tangram.png",
+    "back": "/img/imgdesc/pochettecd.png",
+    "link": "/pdf/Design%20Graphique%20-%20Mars%202023%20-%20Pochette%20CD.pdf"
+  },
+  {
+  "id": 8,
+  "name": "Mot Image",
+  "categ": "Design Graphique",
+  "front": "/img/imgprojet/MotImage.png",
+  "back": "/img/imgdesc/motimage.png",
+  "link": "/pdf/Design%20Graphique%20-%20Ocotobre%202022%20-%20Mot%20image.pdf"
+  },
+  {
+    "id": 9,
+    "name": "Affiche Musique",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/Affiches%20musique.png",
+    "back": "/img/imgdesc/musiqueparis.png",
+    "link": "/pdf/Design%20Graphique%20-%20Septembre%202023%20-%20Affiche%20musique.pdf"
+  },
+  {
+    "id": 10,
+    "name": "Visualeaz",
+    "categ": "Design Graphique",
+    "front": "/img/imgprojet/Visualeaz.png",
+    "back": "/img/imgdesc/visualeaz.png",
+    "link": "/pdf/Design%20Graphique%20x%20Web%20Design%20-%20Décembre%202022%20-%20Visualeaz.pdf"
+  },
+  {
+    "id": 11,
+    "name": "Affiche Avatar",
+    "categ": "Direction Artistique",
+    "front": "/img/imgprojet/Affiche%20avatar.png",
+    "back": "/img/imgdesc/afficheavatar.png",
+    "link": "/pdf/Direction%20Artistique%20-%20Décembre%202022%20-%20Affiche%20avatar.pdf"
+  },
+  {
+    "id": 12,
+    "name": "Magazine Coolisses",
+    "categ": "Direction Artistique",
+    "front": "/img/imgprojet/Magazine%20coolisses.png",
+    "back": "/img/imgdesc/coolisses.png",
+    "link": "/pdf/Direction%20Artistique%20-%20Mai%202023%20-%20Magazine%20Coolisses.pdf"
+  },
+  {
+    "id": 13,
+    "name": "Boisson Energisante",
+    "categ": "Ideation Creativite",
+    "front": "/img/imgprojet/Boissons%20énergisantes.png",
+    "back": "/img/imgdesc/boissonenergisantes.png",
+    "link": "/pdf/Idéation%20Créativité%20-%20Janvier%202023%20-%20Boissons%20énergisantes.pdf"
+  },
+  {
+    "id": 14,
+    "name": "Milku pan",
+    "categ": "Projet Groupe",
+    "front": "/img/imgprojet/Milku'pan.png",
+    "back": "/img/imgdesc/milkupan.png",
+    "link": "/pdf/Infographie%20-%20Mai%202023%20-%20Milkupan.pdf"
+  },
+  {
+    "id": 15,
+    "name": "Oh! Mochi",
+    "categ": "Projet Groupe",
+    "front": "/img/imgprojet/Oh!mochi.png",
+    "back": "/img/imgdesc/coolisses.png",
+    "link": "/pdf/Infographie%20-%20Novembre%202022%20-%20Oh!Mochi.pdf"
+  },
+  {
+    "id": 16,
+    "name": "Kodasema flyers",
+    "categ": "Infographie",
+    "front": "/img/imgprojet/kodasema.png",
+    "back": "/img/imgdesc/kodasema.png",
+    "link": "/pdf/Infographie%20-%20Octobre%202023%20-%20Kodasema%20flyers.pdf"
+  },
+  {
+    "id": 17,
+    "name": "The Strasbourger",
+    "categ": "Motion Design",
+    "front": "/img/imgprojet/The%20strasbourger.png",
+    "back": "/img/imgdesc/thestrasbourger.png",
+    "link": "/pdf/Motion%20Design%20x%20Design%20Graphique%20-%20Octobre%202022%20-%20The%20strasbourger.pdf"
+  },
+  {
+    "id": 18,
+    "name": "Tiny Kit",
+    "categ": "PFA",
+    "front": "/img/imgprojet/PFA%20Tinykit.png",
+    "back": "/img/imgdesc/pfatinykit.png",
+    "link": "/pdf/PFA%20-%20Juin%202023%20-%20Tinykit.pdf"
+  },
+  {
+    "id": 19,
+    "name": "PAC",
+    "categ": "PFA",
+    "front": "/img/imgprojet/PFA%20avatar.png",
+    "back": "/img/imgdesc/pac.png",
+    "link": "/pdf/PFA%20-%20Mai%202022%20-%20PAC.pdf"
+  },
+  {
+    "id": 20,
+    "name": "Hot ones",
+    "categ": "Projet Groupe",
+    "front": "/img/imgprojet/Hot%20Ones.png",
+    "back": "/img/imgdesc/hotones.png",
+    "link": "/pdf/Web%20Design%20-%20Avril%202023%20-%20Hot%20Ones.pdf"
+  },
+  {
+    "id": 21,
+    "name": "GP Explorer",
+    "categ": "Web Design",
+    "front": "/img/imgprojet/GP%20explorer.png",
+    "back": "/img/imgdesc/gpexplorer.png",
+    "link": "/pdf/Web%20Design%20-%20Décembre%202022%20-%20GP%20Explorer.pdf"
+  },
+  {
+    "id": 22,
+    "name": "Elsass Radio",
+    "categ": "Web Design",
+    "front": "/img/imgprojet/ElsassRadio.png",
+    "back": "/img/imgdesc/elsassradio.png",
+    "link": "/pdf/Web%20Design%20-%20Février%202023%20-%20ElsassRadio.pdf"
+  },
+  {
+    "id": 23,
+    "name": "Hana Fleurs",
+    "categ": "Web Design",
+    "front": "/img/imgprojet/Hana%20Fleurs.png",
+    "back": "/img/imgdesc/hanafleurs.png",
+    "link": "/pdf/Web%20Design%20-%20Juin%202023%20-%20Hana%20Fleurs.pdf"
+  },
+  {
+    "id": 24,
+    "name": "Streamly",
+    "categ": "Web Design",
+    "front": "/img/imgprojet/Streamly.png",
+    "back": "/img/imgdesc/streamly.png",
+    "link": "/pdf/Web%20Design%20-%20Octobre%202022%20-%20Streamly.pdf"
+  }
+]
