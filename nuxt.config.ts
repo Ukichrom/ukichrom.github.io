@@ -12,7 +12,7 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Portfolio de Mathilde' }
       ]
     },
-    baseURL: 'ukichrom.github.io',
+    baseURL: '/ukichrom.github.io/',
     buildAssetsDir: 'assets'
   },
 
