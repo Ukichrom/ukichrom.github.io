@@ -8,10 +8,14 @@
 </template>
 
 <script setup lang="ts">
+import {useAsyncData} from "#app";
+
 definePageMeta({
   layout: 'default'
 })
 
-const { data:projects } = await useFetch('projects.json')
+//const { data:projects } = await useFetch('projects.json')
+const { data:projects } = await useAsyncData('./projects.json', () => {
+  return $fetch('./projects.json')}, { lazy: true, server: false })
 
 </script>

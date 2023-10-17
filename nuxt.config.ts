@@ -5,6 +5,11 @@ const { resolve } = createResolver(import.meta.url)
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
+  target: 'static',
+  router: {
+    base: '/ukichrom.github.io/', //eg:- /crstnmac.github.io/
+  },
+
   app: {
     head: {
       title: 'Portfolio | Mathilde',
@@ -12,8 +17,6 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Portfolio de Mathilde' }
       ]
     },
-    baseURL: '/ukichrom.github.io/',
-    buildAssetsDir: 'assets'
   },
 
   alias: {
