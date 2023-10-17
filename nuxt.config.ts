@@ -6,7 +6,13 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   app: {
-    baseURL: '/ukichrom.github.io/',
+    head: {
+      title: 'Portfolio | Mathilde',
+      meta: [
+        { name: 'description', content: 'Portfolio de Mathilde' }
+      ]
+    },
+    baseURL: 'ukichrom.github.io',
     buildAssetsDir: 'assets'
   },
 
