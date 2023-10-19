@@ -82,7 +82,7 @@
   {
     "id": 10,
     "name": "Visualeaz",
-    "categ": "Design Graphique",
+    "categ": ["Design Graphique", "Web Design"],
     "front": "/img/imgprojet/Visualeaz.png",
     "back": "/img/imgdesc/visualeaz.png",
     "link": "/pdf/Design%20Graphique%20x%20Web%20Design%20-%20Décembre%202022%20-%20Visualeaz.pdf"
@@ -114,7 +114,7 @@
   {
     "id": 14,
     "name": "Milku pan",
-    "categ": "Projet Groupe",
+    "categ": ["Projet Groupe", "Infographie"],
     "front": "/img/imgprojet/Milku'pan.png",
     "back": "/img/imgdesc/milkupan.png",
     "link": "/pdf/Infographie%20-%20Mai%202023%20-%20Milkupan.pdf"
@@ -122,9 +122,9 @@
   {
     "id": 15,
     "name": "Oh! Mochi",
-    "categ": "Projet Groupe",
+    "categ": ["Projet Groupe","Infographie"],
     "front": "/img/imgprojet/Oh!mochi.png",
-    "back": "/img/imgdesc/coolisses.png",
+    "back": "/img/imgdesc/ohmochi.png",
     "link": "/pdf/Infographie%20-%20Novembre%202022%20-%20Oh!Mochi.pdf"
   },
   {
@@ -146,7 +146,7 @@
   {
     "id": 18,
     "name": "Tiny Kit",
-    "categ": "PFA",
+    "categ": ["PFA", "Web Design"],
     "front": "/img/imgprojet/PFA%20Tinykit.png",
     "back": "/img/imgdesc/pfatinykit.png",
     "link": "/pdf/PFA%20-%20Juin%202023%20-%20Tinykit.pdf"
@@ -162,7 +162,7 @@
   {
     "id": 20,
     "name": "Hot ones",
-    "categ": "Projet Groupe",
+    "categ": ["Projet Groupe", "Web Design"],
     "front": "/img/imgprojet/Hot%20Ones.png",
     "back": "/img/imgdesc/hotones.png",
     "link": "/pdf/Web%20Design%20-%20Avril%202023%20-%20Hot%20Ones.pdf"

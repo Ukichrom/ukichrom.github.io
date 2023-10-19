@@ -1,7 +1,7 @@
 <template>
   <div class="home-all-cards">
     <div v-for="p in projects">
-      <ProjectCard v-if="p['categ'] === 'Projet Groupe'" :project="p" />
+      <ProjectCard v-if="p['categ'].includes('Projet Groupe')" :project="p" />
     </div>
   </div>
 

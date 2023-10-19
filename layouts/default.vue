@@ -32,11 +32,11 @@
         </div>
         <div class="layout-social-line">
           <img class="layout-social-logo" alt="insta" src="~/assets/img/174857.png"/>
-          <NuxtLink to="https://www.behance.net/mathilde_schmitt" target="_blank">LinkedIn</NuxtLink>
+          <NuxtLink to="https://www.linkedin.com/in/mathilde-schmitt-674b47231/" target="_blank">LinkedIn</NuxtLink>
         </div>
         <div class="layout-social-line">
           <img class="layout-social-logo" alt="insta" src="~/assets/img/Behance-Logo.png"/>
-          <NuxtLink to="https://www.linkedin.com/in/mathilde-schmitt-674b47231/" target="_blank">Behance</NuxtLink>
+          <NuxtLink to="https://www.behance.net/mathilde_schmitt" target="_blank">Behance</NuxtLink>
         </div>
       </div>
     </header>
